@@ -1,0 +1,10 @@
+input {
+    background-color: #EEEEEE;
+    width: 30%;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    border: 3px solid #333;
+    text-align: center;
+}
