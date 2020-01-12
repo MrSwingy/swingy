@@ -1,5 +1,5 @@
 input {
-    background-color: #EEEEEE;
+    background-color: #DDD;
     width: 30%;
     height: 50px;
     position: absolute;
@@ -7,4 +7,5 @@ input {
     left: 35%;
     border: 3px solid #333;
     text-align: center;
+    border-radius: 10px;
 }
